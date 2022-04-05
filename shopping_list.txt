@@ -1,5 +1,5 @@
-1.JackDaniels
-2.JackDanielsHoney
-3.Water
-4.CocaCola
-5.Pizza
+1.JackDaniels x2
+2.JackDanielsHoney x2
+3.Water x3 
+4.CocaCola x3
+5.Pizza x5
