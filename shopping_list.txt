@@ -1,5 +1,10 @@
 1.JackDaniels x2
 2.JackDanielsHoney x3
 3.Water x3 
+<<<<<<< HEAD
 4.CocaCola x3
 5.Pizza x6
+=======
+4.Pepsi x3
+5.Pizza x5
+>>>>>>> branch2
