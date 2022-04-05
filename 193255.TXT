@@ -1,0 +1,75 @@
+8.
+$ git log
+commit 163051bbc652a06d669586691271f0a05e7d09cf (HEAD -> master, branch2, branch1)
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:14:52 2022 +0200
+
+    Add quantites to the items
+
+commit 9bdc67cf43a09237df08270e56be477e1478e9b9
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:13:56 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit efa02a0c3127e5274b4a89984d7c8be4ca61cbd8 (origin/master, origin/HEAD)
+Author: Hristijan3 <82377408+Hristijan3@users.noreply.github.com>
+Date:   Wed Apr 6 00:15:33 2022 +0200
+
+    Update README.md
+
+commit a5fcf2c4c09d953f6c10b1a856fcb5b8a14af83b
+Author: Hristijan3 <82377408+Hristijan3@users.noreply.github.com>
+Date:   Wed Apr 6 00:15:19 2022 +0200
+
+17.
+$ git log
+commit 9a55c7437fa59ac0e6a8577e63355d30854676ff (HEAD -> branch2)
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:19:35 2022 +0200
+
+    Modify item #4
+
+commit 163051bbc652a06d669586691271f0a05e7d09cf (origin/branch2)
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:14:52 2022 +0200
+
+    Add quantites to the items
+
+commit 9bdc67cf43a09237df08270e56be477e1478e9b9
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:13:56 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit efa02a0c3127e5274b4a89984d7c8be4ca61cbd8
+Author: Hristijan3 <82377408+Hristijan3@users.noreply.github.com>
+Date:   Wed Apr 6 00:15:33 2022 +0200
+
+    Update README.md
+
+19.
+$ git log
+commit a6e3520cf4cdb739dc327c519facb1b15ce6b6a8 (HEAD -> branch2)
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:19:35 2022 +0200
+
+    Modify item #4 and add item #6
+
+commit 163051bbc652a06d669586691271f0a05e7d09cf (origin/branch2)
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:14:52 2022 +0200
+
+    Add quantites to the items
+
+commit 9bdc67cf43a09237df08270e56be477e1478e9b9
+Author: Hristijan-web <officialkiko@yahoo.com>
+Date:   Wed Apr 6 00:13:56 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit efa02a0c3127e5274b4a89984d7c8be4ca61cbd8
+Author: Hristijan3 <82377408+Hristijan3@users.noreply.github.com>
+Date:   Wed Apr 6 00:15:33 2022 +0200
+
+    Update README.md
