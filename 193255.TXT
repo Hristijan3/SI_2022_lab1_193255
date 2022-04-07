@@ -113,8 +113,8 @@ Author: Hristijan3 <82377408+Hristijan3@users.noreply.github.com>
 Date:   Wed Apr 6 00:15:33 2022 +0200
 
     Update README.md
-    20.	 git checkout master
-	 git merge branch1
+20.	git checkout master
+	git merge branch1
 
 21.	git merge branch2(CONFLICT)
 	git checkout branch2
