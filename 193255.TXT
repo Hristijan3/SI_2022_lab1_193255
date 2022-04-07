@@ -1,3 +1,18 @@
+4. 	git innit
+	git clone https://github.com/Hristijan3/SI_2022_lab1_193255.git
+	cd SI_2022_lab1_193255
+	
+5.	touch shopping_list.txt
+	nano shopping_list.txt
+	git add shopping_list.txt
+	git commit -m "Add 5 items to the shopping list"
+
+6.	nano shopping_list.txt
+	git add shopping_list.txt
+	git commit -m "Add quantities to the items"
+
+7.	git branch branch1
+	git branch branch2
 8.
 $ git log
 commit 163051bbc652a06d669586691271f0a05e7d09cf (HEAD -> master, branch2, branch1)
@@ -21,6 +36,29 @@ Date:   Wed Apr 6 00:15:33 2022 +0200
 commit a5fcf2c4c09d953f6c10b1a856fcb5b8a14af83b
 Author: Hristijan3 <82377408+Hristijan3@users.noreply.github.com>
 Date:   Wed Apr 6 00:15:19 2022 +0200
+
+9. 	git push --all origin
+
+10.	git checkout branch1
+
+11.	nano shopping_list.txt
+	git add shopping__list.txt
+	git commit -m "Change quantity of item #5"
+
+12. 	git checkout master
+
+13.	nano shoppign_list.txt
+	git add shopping_list.txt
+	git commit -m "Change quantity of item #2"
+
+
+14.	git push --all origin
+
+15.	git checkout branch2
+
+16.	nano shopping_list.txt
+	git add shopping_list.txt
+	git commit -m "Modify item #4"
 
 17.
 $ git log
@@ -48,6 +86,8 @@ Date:   Wed Apr 6 00:15:33 2022 +0200
 
     Update README.md
 
+18. git commit ammend -m "Modify item #4 and add item #6"
+
 19.
 $ git log
 commit a6e3520cf4cdb739dc327c519facb1b15ce6b6a8 (HEAD -> branch2)
@@ -73,3 +113,17 @@ Author: Hristijan3 <82377408+Hristijan3@users.noreply.github.com>
 Date:   Wed Apr 6 00:15:33 2022 +0200
 
     Update README.md
+    20.	 git checkout master
+	 git merge branch1
+
+21.	git merge branch2(CONFLICT)
+	git checkout branch2
+	git merge master
+	git add shopping_list.txt
+	git merge --countinue
+	git checkout master
+
+22.	git add 193255.TXT
+	git commit -m "Add docs"
+
+23.	git push --all origin
